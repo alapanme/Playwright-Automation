@@ -7,4 +7,5 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 3. Run `npx playwright test` to execute the tests
 
 # Articles on Playwright
-- [How to Install Playwright](https://testersdock.com/install-playwright/)
+- [How to install Playwright](https://testersdock.com/install-playwright/)
+- [Text input with basic assertions in Playwright](https://testersdock.com/text-input-assertion-playwright/)
