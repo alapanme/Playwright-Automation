@@ -9,3 +9,4 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 # Articles on Playwright
 - [How to install Playwright](https://testersdock.com/install-playwright/)
 - [Text input with basic assertions in Playwright](https://testersdock.com/text-input-assertion-playwright/)
+- [How to work with checkboxes in Playwright](https://testersdock.com/checkbox-playwright/)
