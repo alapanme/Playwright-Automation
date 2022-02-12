@@ -3,7 +3,7 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 
 # How to Start
 1. Clone the project
-2. `npm i` - Install all the dependencies
+2. Run `npm i` to install all the dependencies
 3. Run `npx playwright test` to execute the tests
 
 # Articles on Playwright
