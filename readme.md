@@ -11,3 +11,4 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 - [Text input with basic assertions in Playwright](https://testersdock.com/text-input-assertion-playwright/)
 - [How to work with checkboxes in Playwright](https://testersdock.com/checkbox-playwright/)
 - [How to handle Javascript Alert, Confirm & Prompt in Playwright](https://testersdock.com/playwright-javascript-alert-confirm-prompt/)
+- [How to handle simple and nested iframes in Playwright](https://testersdock.com/iframes-playwright/)
