@@ -5,6 +5,10 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 1. Clone the project
 2. Run `npm i` to install all the dependencies
 3. Run `npx playwright test` to execute the tests
+4. To generate Allure HTML Reports:
+    - Run `npx playwright test --reporter=line,allure-playwright`
+    - Run `npm run allure:generate`
+    
 
 # Articles on Playwright
 - [How to install Playwright](https://testersdock.com/install-playwright/)
@@ -13,3 +17,4 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 - [How to handle Javascript Alert, Confirm & Prompt in Playwright](https://testersdock.com/playwright-javascript-alert-confirm-prompt/)
 - [How to handle simple and nested iframes in Playwright](https://testersdock.com/iframes-playwright/)
 - [How to handle Shadow DOM in Playwright](https://testersdock.com/playwright-shadow-dom/)
+- [How to create Allure HTML reports with Playwright](https://testersdock.com/allure-playwright/)
