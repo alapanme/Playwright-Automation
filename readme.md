@@ -18,3 +18,4 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 - [How to handle simple and nested iframes in Playwright](https://testersdock.com/iframes-playwright/)
 - [How to handle Shadow DOM in Playwright](https://testersdock.com/playwright-shadow-dom/)
 - [How to create Allure HTML reports with Playwright](https://testersdock.com/allure-playwright/)
+- [How to automatically generate scripts with Playwright Inspector](https://testersdock.com/generate-scripts-playwright-inspector/)
