@@ -3,3 +3,4 @@ test-results/
 playwright-report/
 allure-report/
 allure-results/
+tests/dummy.spec.ts
