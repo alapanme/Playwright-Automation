@@ -20,3 +20,4 @@ Playwright is a framework for Web Testing and Automation. It is built to enable 
 - [How to automatically generate scripts with Playwright Inspector](https://testersdock.com/generate-scripts-playwright-inspector/)
 - [How to debug scripts using Playwright Inspector](https://testersdock.com/debug-scripts-using-playwright-inspector/)
 - [File Upload in Playwright](https://testersdock.com/playwright-file-upload/)
+- [Interesting things that you can do with Playwright Command Line Tools](https://testersdock.com/playwright-command-line-tools/)
